@@ -4,7 +4,6 @@
   "description": "N.I.A. React Portfolio",
   "version": "0.1.0",
   "author": "N.A. <narmstrongv@gmail.com>",
-  "homepage": "https://narmstrongv.github.io/react-portfolio2/",
   "dependencies": {
     "gatsby": "^2.26.1",
     "gatsby-image": "^2.5.0",
@@ -43,6 +42,7 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
+  "homepage": "https://narmstrongv.github.io/react-portfolio2/",
   "repository": {
     "type": "git",
     "url": "https://github.com/gatsbyjs/gatsby-starter-default"
